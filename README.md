@@ -1,4 +1,5 @@
 1. Conducting the following tasks for store segmentation
+
     a. Data Collection
     b. Exploratory data analysis
     c. Data Cleaning
